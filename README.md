@@ -17,5 +17,8 @@
 11. vs코드로 코드 복붙후 토큰확인하고 실행
 12. !help 명령어 확인
 
-주의 사항 ![image](https://github.com/user-attachments/assets/b09152aa-4cf2-40cd-beab-b3a23372ba6a)
+주의 사항 ![image](https://github.com/user-attachments/assets/0351bf43-8ef4-4fe6-aeac-8f7ca115f606) 인터프리터가 Python으로 설정되어있는지 실행후 터미널에서 확인
+Python으로 설정이 안되어있다면 Ctrl + Shift + P 입력 - Select interpreter 타이핑후 엔터 - 인터프리터 리스트중 Python 3.9.0 클릭 또는 다른버전의 Python 클릭
+![image](https://github.com/user-attachments/assets/fae1f726-49eb-48cd-9b39-3c80d3cd0c6c)
+
 
