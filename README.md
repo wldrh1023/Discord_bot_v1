@@ -11,7 +11,8 @@
 6. https://discord.com/developers/applications 접속
 7. New Application - 이름 아무거나 설정
 8. 왼쪽 OAuth2 설정 - SCOPES부분 bot 체크, BOT PERMISSIONS부분 Administrator(관리자 권한)체크 - GENERATED URL부분 Copy버튼 - 인터넷창 주소 복붙 - 원하는 서버에 초대
-9. 왼쪽 BOT 설정 - TOKEN부분 Reset Token - 토큰 복사 - 노래봇코드로 가서 토큰에 붙혀넣기 ex) TOKEN = 'ajsdkljfalksjdlfadf' - 바깥에 쉼표 (') 있는지 확인
+9. 왼쪽 BOT 설정 - TOKEN부분 Reset Token - 토큰 복사 - 노래봇코드로 가서 토큰에 붙혀넣기
+   ex) TOKEN = 'ajsdkljfalksjdlfadf' - 바깥에 쉼표 (') 있는지 확인
 10. 밑에 설정 더 내려가서 Privileged Gateway intents 세개 다 활성화, PUBLIC BOT (공개봇임 아무나 쓸수있는거) 원하면 활성화, 나만쓸거면 비활성화
 11. vs코드로 코드 복붙후 토큰확인하고 실행
 12. !help 명령어 확인
