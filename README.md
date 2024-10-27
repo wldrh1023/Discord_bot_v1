@@ -9,7 +9,7 @@
    예시) C:\Users\User\Desktop\ffmpeg\bin
 5. 윈도우키 - 고급 시스템 설정 - 환경 변수 - 시스템 변수 부분에 Path클릭 - 편집 - 새로만들기 - 복사했던 경로 붙혀넣기 - 확인
 6. https://discord.com/developers/applications 접속
-7. New Application - 이름 아무거나 설정
+7. New Application - 이름 설정
 8. 왼쪽 OAuth2 설정 - SCOPES부분 bot 체크, BOT PERMISSIONS부분 Administrator(관리자 권한)체크 - GENERATED URL부분 Copy버튼 - 인터넷창 주소 복붙 - 원하는 서버에 초대
 9. 왼쪽 BOT 설정 - TOKEN부분 Reset Token - 토큰 복사 - 노래봇코드로 가서 토큰에 붙혀넣기
    ex) TOKEN = 'ajsdkljfalksjdlfadf' - 바깥에 쉼표 (') 있는지 확인
