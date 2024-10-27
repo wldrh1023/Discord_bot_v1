@@ -7,8 +7,7 @@ import random
 import json
 import os
 
-TOKEN = ''
-TARGET_CHANNEL_ID = []
+TOKEN = ''  #디스코드 토큰 입력 부분
 PLAYLISTS_FILE = 'playlists.json'
 
 intents = discord.Intents.default()   
