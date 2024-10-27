@@ -3,7 +3,7 @@
    https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64-webinstall.exe
 2. 모듈 설치파일을 실행
 3. FFMPEG 파일을 다운로드
-   https://github.com/BtbN/FFmpeg-Builds/releases
+   https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip
    바탕화면에 압축풀기
    ffmpeg 실행파일까지 들어가서 경로 복사
    예시) C:\Users\User\Desktop\ffmpeg\bin
