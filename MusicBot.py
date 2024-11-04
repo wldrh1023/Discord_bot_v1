@@ -378,7 +378,7 @@ async def loop(ctx):
 
 
 # 명령어: info (현재 노래 정보)
-@bot.command(name="info")
+@bot.command()
 async def info(ctx):
     guild_id = ctx.guild.id
     if guild_id in current_song and current_song[guild_id]:
